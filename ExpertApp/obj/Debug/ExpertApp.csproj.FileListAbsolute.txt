@@ -1,0 +1,33 @@
+C:\Users\humay\source\repos\ExpertApp\ExpertApp\bin\Debug\Expertdb.mdf
+C:\Users\humay\source\repos\ExpertApp\ExpertApp\bin\Debug\Expertdb_log.ldf
+C:\Users\humay\source\repos\ExpertApp\ExpertApp\bin\Debug\ExpertApp.exe.config
+C:\Users\humay\source\repos\ExpertApp\ExpertApp\bin\Debug\ExpertApp.exe
+C:\Users\humay\source\repos\ExpertApp\ExpertApp\bin\Debug\ExpertApp.pdb
+C:\Users\humay\source\repos\ExpertApp\ExpertApp\obj\Debug\ExpertApp.FormCoatPent.resources
+C:\Users\humay\source\repos\ExpertApp\ExpertApp\obj\Debug\ExpertApp.formCustomerDetail.resources
+C:\Users\humay\source\repos\ExpertApp\ExpertApp\obj\Debug\ExpertApp.FormCustomerShalwarKamez.resources
+C:\Users\humay\source\repos\ExpertApp\ExpertApp\obj\Debug\ExpertApp.formMain.resources
+C:\Users\humay\source\repos\ExpertApp\ExpertApp\obj\Debug\ExpertApp.Properties.Resources.resources
+C:\Users\humay\source\repos\ExpertApp\ExpertApp\obj\Debug\ExpertApp.csproj.GenerateResource.Cache
+C:\Users\humay\source\repos\ExpertApp\ExpertApp\obj\Debug\ExpertApp.csproj.CoreCompileInputs.cache
+C:\Users\humay\source\repos\ExpertApp\ExpertApp\obj\Debug\ExpertApp.exe
+C:\Users\humay\source\repos\ExpertApp\ExpertApp\obj\Debug\ExpertApp.pdb
+C:\Users\humay\source\repos\ExpertApp\ExpertApp\obj\Debug\ExpertApp.formPentCoatDetail.resources
+C:\Users\humay\source\repos\ExpertApp\ExpertApp\obj\Debug\ExpertApp.FormShalwarkameezDetails.resources
+G:\Drive (D)\pr\new\ExpertApp\ExpertApp\bin\Debug\Expertdb.mdf
+G:\Drive (D)\pr\new\ExpertApp\ExpertApp\bin\Debug\Expertdb_log.ldf
+G:\Drive (D)\pr\new\ExpertApp\ExpertApp\bin\Debug\ExpertApp.exe.config
+G:\Drive (D)\pr\new\ExpertApp\ExpertApp\bin\Debug\ExpertApp.exe
+G:\Drive (D)\pr\new\ExpertApp\ExpertApp\bin\Debug\ExpertApp.pdb
+G:\Drive (D)\pr\new\ExpertApp\ExpertApp\obj\Debug\ExpertApp.csprojResolveAssemblyReference.cache
+G:\Drive (D)\pr\new\ExpertApp\ExpertApp\obj\Debug\ExpertApp.FormCoatPent.resources
+G:\Drive (D)\pr\new\ExpertApp\ExpertApp\obj\Debug\ExpertApp.formCustomerDetail.resources
+G:\Drive (D)\pr\new\ExpertApp\ExpertApp\obj\Debug\ExpertApp.FormCustomerShalwarKamez.resources
+G:\Drive (D)\pr\new\ExpertApp\ExpertApp\obj\Debug\ExpertApp.formPentCoatDetail.resources
+G:\Drive (D)\pr\new\ExpertApp\ExpertApp\obj\Debug\ExpertApp.FormShalwarkameezDetails.resources
+G:\Drive (D)\pr\new\ExpertApp\ExpertApp\obj\Debug\ExpertApp.formMain.resources
+G:\Drive (D)\pr\new\ExpertApp\ExpertApp\obj\Debug\ExpertApp.Properties.Resources.resources
+G:\Drive (D)\pr\new\ExpertApp\ExpertApp\obj\Debug\ExpertApp.csproj.GenerateResource.Cache
+G:\Drive (D)\pr\new\ExpertApp\ExpertApp\obj\Debug\ExpertApp.csproj.CoreCompileInputs.cache
+G:\Drive (D)\pr\new\ExpertApp\ExpertApp\obj\Debug\ExpertApp.exe
+G:\Drive (D)\pr\new\ExpertApp\ExpertApp\obj\Debug\ExpertApp.pdb
